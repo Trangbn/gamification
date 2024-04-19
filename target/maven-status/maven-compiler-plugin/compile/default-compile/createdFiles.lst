@@ -1,0 +1,8 @@
+microservices/book/gamification/GamificationApplication.class
+microservices/book/gamification/domain/Badge.class
+microservices/book/gamification/repositories/ScoreCardRepository.class
+microservices/book/gamification/repositories/BadgeCardRepository.class
+microservices/book/gamification/domain/GameStats.class
+microservices/book/gamification/domain/BadgeCard.class
+microservices/book/gamification/domain/ScoreCard.class
+microservices/book/gamification/domain/LeaderBoardRow.class
